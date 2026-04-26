@@ -1,0 +1,15 @@
+D:\C#\.NET\class\Generics_LambdaExp\GenericsActivity\bin\Debug\net10.0\GenericsActivity.exe
+D:\C#\.NET\class\Generics_LambdaExp\GenericsActivity\bin\Debug\net10.0\GenericsActivity.deps.json
+D:\C#\.NET\class\Generics_LambdaExp\GenericsActivity\bin\Debug\net10.0\GenericsActivity.runtimeconfig.json
+D:\C#\.NET\class\Generics_LambdaExp\GenericsActivity\bin\Debug\net10.0\GenericsActivity.dll
+D:\C#\.NET\class\Generics_LambdaExp\GenericsActivity\bin\Debug\net10.0\GenericsActivity.pdb
+D:\C#\.NET\class\Generics_LambdaExp\GenericsActivity\obj\Debug\net10.0\GenericsActivity.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\.NET\class\Generics_LambdaExp\GenericsActivity\obj\Debug\net10.0\GenericsActivity.AssemblyInfoInputs.cache
+D:\C#\.NET\class\Generics_LambdaExp\GenericsActivity\obj\Debug\net10.0\GenericsActivity.AssemblyInfo.cs
+D:\C#\.NET\class\Generics_LambdaExp\GenericsActivity\obj\Debug\net10.0\GenericsActivity.csproj.CoreCompileInputs.cache
+D:\C#\.NET\class\Generics_LambdaExp\GenericsActivity\obj\Debug\net10.0\GenericsActivity.sourcelink.json
+D:\C#\.NET\class\Generics_LambdaExp\GenericsActivity\obj\Debug\net10.0\GenericsActivity.dll
+D:\C#\.NET\class\Generics_LambdaExp\GenericsActivity\obj\Debug\net10.0\refint\GenericsActivity.dll
+D:\C#\.NET\class\Generics_LambdaExp\GenericsActivity\obj\Debug\net10.0\GenericsActivity.pdb
+D:\C#\.NET\class\Generics_LambdaExp\GenericsActivity\obj\Debug\net10.0\GenericsActivity.genruntimeconfig.cache
+D:\C#\.NET\class\Generics_LambdaExp\GenericsActivity\obj\Debug\net10.0\ref\GenericsActivity.dll
