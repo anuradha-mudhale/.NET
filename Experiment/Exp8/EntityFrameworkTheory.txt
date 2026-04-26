@@ -1,0 +1,51 @@
+command to create project:-
+dotnet new console -n studentCrudApp
+
+Entity framework is a tool in dotnet that help us work with database using C# code instead of sql queries
+Advantages->
+less code
+faster development
+easy to maintain
+
+Entity Framework        Entity Framework core
+
+1}older version       newer version
+2}heavy               lightweight
+3}windows only        cross platform {Linux,windows}
+
+ORM
+object relational mapping it maps c# classes to database table and object to row
+eg->public class Student{
+	public string name{get;set}
+	public int id{get;set}
+}
+
+There are three types of coding approach
+we use 1]code first approach->start with coding
+eg:-
+create C# classes->databases created automatically
+
+2]database first->if database exists already generate C# classes from db this is db first approach
+
+3]Model first->design model first then db create
+
+db context->db context is a main class that connect your application to the database
+eg:
+public DbSet<Student> dtudents{get;set}
+
+db context is a bridge between application and database
+
+_________Migration________
+it is used to create database structure automatically
+eg:-
+public string email{get;set}->migration update database table add new column
+
+WHAT IS CRUD?
+create->insert
+Read->fetch
+update->modify
+delete->remove
+
+
+
+27 April 4May project
