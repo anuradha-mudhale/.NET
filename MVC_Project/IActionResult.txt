@@ -1,0 +1,40 @@
+Definition
+
+IActionResult is an interface in ASP.NET Core that is used to return different types of HTTP responses from controller action methods.
+
+🔹 Explanation
+
+It allows a controller to return various results such as success, error, or data responses.
+It provides flexibility to send appropriate HTTP status codes to the client.
+
+🔹 Why we use it
+To return different types of responses
+To handle errors properly
+To send correct HTTP status codes
+To make APIs flexible and reusable
+🔹 Common Return Types
+Method	Description
+Ok()	Returns 200 (Success)
+NotFound()	Returns 404 (Not Found)
+BadRequest()	Returns 400 (Invalid Request)
+Created()	Returns 201 (Resource Created)
+🔹 Example
+[HttpGet]
+public IActionResult GetStudent()
+{
+    var student = new { Id = 1, Name = "Anuradha" };
+
+    if (student == null)
+    {
+        return NotFound();
+    }
+
+    return Ok(student);
+}
+🔹 Real-time Use
+Used in Web APIs and REST services
+Returning JSON data to frontend
+Handling success and error responses
+
+#####
+IActionResult is an interface in ASP.NET Core used to return HTTP responses from controller methods. It allows returning different types of results such as Ok, NotFound, and BadRequest with appropriate status codes. It improves flexibility and helps in proper API response handling.

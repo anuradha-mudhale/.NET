@@ -1,0 +1,11 @@
+view is ui layer it is responsible for user interface 
+what user see in the browser it is view
+
+Controller -> it is brain of MVC . it connects model and view . it handles user request and application flow
+responsiblites->receive request
+call model
+send data to the view
+
+Activity
+1.use of all code understand
+2.create registeration form
