@@ -1,0 +1,58 @@
+
+D:\C#\.NET\Experiment\Exp9>dotnet new webapi -n studentAPI
+The template "ASP.NET Core Web API" was created successfully.
+
+Processing post-creation actions...
+Restoring D:\C#\.NET\Experiment\Exp9\studentAPI\studentAPI.csproj:
+Restore succeeded.
+
+D:\C#\.NET\Experiment\Exp9>cd studentAPI
+
+D:\C#\.NET\Experiment\Exp9\studentAPI>code .
+
+D:\C#\.NET\Experiment\Exp9\studentAPI>
+
+webAPI :- communication between frontend to backend 
+Example:swiggy,instagram
+
+REST API:-
+uses http methods works with json 
+http methods:get,put,post,delete
+get->fetch data eg view student
+post->created eg add student
+
+Activities->1.What is webAPI and RESTAPI deep study with Example
+2.Learn HTTP methods with a proper example
+
+cmd
+>dotnet add package swashbuckle.AspNetCore :test api without frontend
+
+dotnet clean
+
+dotnet build
+
+http://localhost:5249/api/student
+http://localhost:5249/swagger
+
+
+
+
+----Activity-------
+database ->  users table ->student_name column ->get
+dropdown box ->student list disayla pahije
+
+which http methods we are using
+what is our endpoint
+what response we did
+understand the flow webapi with swagger
+
+webapi is a communication
+controller means handler
+http methods are action
+swagger is a testing tool
+
+
+
+
+
+
